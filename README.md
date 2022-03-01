@@ -25,6 +25,23 @@ Additional considerations:
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
 
+
+
+
+MY PLAN:
+- Make wireframe drawing of webpage
+- Save wireframe to assets file
+- Identify HTML elements I will need to create the webpage I want
+- Add elements to HTML file and preview page with Live Server
+- Begin editing elements to include desired information
+- ACP once initial info is showing up in preview
+- get working button w/event listener
+- ACP
+- Play around with styling and adding any fun infoI want
+- ACP
+- Link Netlify deployed site URL in GitHub Repo "About" section
+
+
 ## Rubric
 
 | App should include . . .                                                            |  10 |
