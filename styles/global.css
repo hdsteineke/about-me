@@ -15,7 +15,7 @@ body {
     /* style */
     font-family: 'Titillium Web', sans-serif;
     background-color: var(--primary-background);
-    color: var(--text-color);
+    /** color: var(--text-color); **/
 
     /* layout */
     display: grid;

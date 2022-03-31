@@ -24,3 +24,32 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+
+
+
+MY PLAN:
+- Make wireframe drawing of webpage
+- Save wireframe to assets file
+- Identify HTML elements I will need to create the webpage I want
+- Add elements to HTML file and preview page with Live Server
+- Begin editing elements to include desired information
+- ACP once initial info is showing up in preview
+- get working button w/event listener
+- ACP
+- Play around with styling and adding any fun infoI want
+- ACP
+- Link Netlify deployed site URL in GitHub Repo "About" section
+
+
+## Rubric
+
+| App should include . . .                                                            |  10 |
+| :---------------------------------------------------------------------------------- | --: |
+| Bio data shows on page, including name, pronouns, and where you live                |   1 |
+| Favorite animal is hidden on page load                                              |   2 |
+| Button with event listener shows favorite animal data                               |   2 |
+| README file with plan                                                               |   2 |
+| Repo has a commit history with multiple commits and commit messages that make sense |   1 |
+| Link in About section of repo to deployed site in Netlify                           |   1 |
+| Work is done on a dev branch and a PR link is submitted to Canvas                   |   1 |
